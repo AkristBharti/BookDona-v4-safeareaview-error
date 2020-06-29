@@ -1,0 +1,10 @@
+{
+  "packagerPort": 19001,
+  "packagerPid": 10344,
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "expoServerNgrokUrl": "https://rp-8jp.anonymous.bookdonav4.exp.direct",
+  "packagerNgrokUrl": "https://packager.rp-8jp.anonymous.bookdonav4.exp.direct",
+  "ngrokPid": 18800,
+  "webpackServerPort": null
+}
